@@ -10,7 +10,12 @@ public class SpringbootApp1Application {
 	 //signup code
  }
 	public static void main(String[] args) {
+		
 		SpringApplication.run(SpringbootApp1Application.class, args);
 	}
 
+	//Author- cbpatil
+	public void login() {
+		//login functionality code
+	}
 }
